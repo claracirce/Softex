@@ -1,0 +1,47 @@
+body {
+    background-color: #b468c7;
+    color: #000000;
+    font-family: italic, fantasy;
+    text-align: center;
+    padding: 40px;
+}
+section {
+    
+ background: white;
+     text-align: center;
+    border-radius: 10px; /* deixa a borda arredondada.*/
+    padding: 15px; /* aumenta a grossura da borda */
+    width: 600px; /* muda a largura da borda */
+    margin: auto; /* coloca a borda no meio */
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.384); /* coloca sombra na borda */
+}
+h1 {
+    color: #9a89f7;
+}
+
+h2 {
+    color: #368633;
+}
+
+button {
+    background-color: #b5b0fa;
+    color: rgb(10, 10, 10);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
+
+button:hover {
+ background-color: #9ee97b;
+
+}
+
+p {
+color: #020202;
+font-family: italic, fantasy;
+text-align: center;
+}
